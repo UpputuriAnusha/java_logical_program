@@ -1,0 +1,65 @@
+17. Write a JAVAprogram to print all natural numbers from 1 to n. - using while loop
+
+18. Write a JAVAprogram to print all natural numbers in reverse (from n to 1). -     using while loop
+
+19. Write a JAVAprogram to print all alphabets from a to z. - using while loop
+
+20. Write a JAVAprogram to print all even numbers between 1 to 100. - using while     loop
+
+21. Write a JAVAprogram to print all odd number between 1 to 100.
+
+22. Write a JAVAprogram to find sum of all natural numbers between 1 to n.
+
+23. Write a JAVAprogram to find sum of all even numbers between 1 to n.
+
+24. Write a JAVAprogram to find sum of all odd numbers between 1 to n.
+
+25. Write a JAVAprogram to print multiplication table of any number.
+
+26. Write a JAVAprogram to count number of digits in a number.
+
+27. Write a JAVAprogram to find first and last digit of a number.
+
+28. Write a JAVAprogram to find sum of first and last digit of a number.
+
+29. Write a JAVAprogram to check whether a number is palindrome or not.
+
+30. Write a JAVAprogram to calculate sum of digits of a number.
+
+31. Write a JAVAprogram to calculate product of digits of a number.
+
+32. Write a JAVAprogram to enter a number and print its reverse.
+
+33. Write a JAVAprogram to find frequency of each digit in a given integer.
+
+34. Write a JAVAprogram to enter a number and print it in words.
+
+35. Write a JAVAprogram to print all ASCII character with their values.
+
+36. Write a JAVAprogram to find power of a number using for loop.
+
+37. Write a JAVAprogram to find all factors of a number.
+
+38. Write a JAVAprogram to calculate factorial of a number.
+
+39. Write a JAVAprogram to check whether a number is Prime number or not.
+
+40. Write a JAVAprogram to print all Prime numbers between 1 to n.
+
+41. Write a JAVAprogram to find sum of all prime numbers between 1 to n.
+
+42. Write a JAVAprogram to find all prime factors of a number.
+
+43. Write a JAVAprogram to check whether a number is Armstrong number or not.
+
+44. Write a JAVAprogram to print all Armstrong numbers between 1 to n.
+
+45. Write a JAVAprogram to check whether a number is Perfect number or not.
+
+46. Write a JAVAprogram to print all Perfect numbers between 1 to n.
+
+47. Write a JAVAprogram to check whether a number is Strong number or not.
+
+48. Write a JAVAprogram to print all Strong numbers between 1 to n.
+
+49. Write a JAVAprogram to print Fibonacci series up to n terms
