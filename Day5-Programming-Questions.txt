@@ -1,0 +1,25 @@
+64. Write a JAVAprogram to find length of a string and compare and concatenate two     strings.
+
+65. Write a JAVAprogram to find total number of alphabets, digits or special     character in a string.
+
+66. Write a JAVAprogram to count total number of vowels and consonants in a string.
+
+67. Write a JAVAprogram to count total number of words in a string.
+
+68. Write a JAVAprogram to find reverse of a string.
+
+69. Write a JAVAprogram to check whether a string is palindrome or not.
+
+70. Write a JAVAprogram to find first occurrence of a character in a given string.
+
+71. Write a JAVAprogram to find last occurrence of a character in a given string.
+
+72. Write a JAVAprogram to search all occurrences of a character in given string.
+
+73. Write a JAVAprogram to count occurrences of a character in given string.
+
+74. Write a JAVAprogram to find highest frequency character in a string.
+
+75. Write a JAVAprogram to find lowest frequency character in a string.
+
+76. Write a JAVAprogram to count frequency of each character in a string
