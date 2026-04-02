@@ -1,0 +1,27 @@
+50. Write a JAVAprogram to print all negative elements in an array.
+
+51. Write a JAVAprogram to find second largest element in an array.
+
+52. Write a JAVAprogram to find maximum and minimum element in an array. 
+
+53. Write a JAVAprogram to count total number of even and odd elements in an array.
+
+54. Write a JAVAprogram to count total number of negative elements in an array.
+
+55. Write a JAVAprogram to copy all elements from an array to another array.
+
+56. Write a JAVAprogram to delete an element from an array at specified position.
+
+57. Write a JAVAprogram to count frequency of each element in an array.
+
+58. Write a JAVAprogram to print all unique elements in the array.
+
+59. Write a JAVAprogram to count total number of duplicate elements in an array.
+
+60. Write a JAVAprogram to delete an element from an array at specified position.
+
+61. Write a JAVAprogram to count frequency of each element in an array.
+
+62. Write a JAVAprogram to print all unique elements in the array.
+
+63. Write a JAVAprogram to count total number of duplicate elements in an array.
